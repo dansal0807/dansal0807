@@ -6,7 +6,9 @@ I'm a Data Engineer with a passion for working with data, exploring its potentia
 
 ## My Interests
 💼 Data Engineering: Leveraging a broad toolkit ranging from web scraping and API development to blockchain technology and machine learning, aiming to build sophisticated data infrastructures and insights.
+
 🤖 Artificial Intelligence: Utilizing AI to not only automate processes but also to explore philosophical questions around intelligence and consciousness.
+
 🔬 Cognitive Science and Data Science Intersection: Investigating how principles of cognitive science can enhance data science practices and vice versa, aiming to bridge theoretical concepts with practical applications.
 
 
